@@ -1,2 +1,2 @@
-# CreateWeiBoCookie
-模拟登录获取cookies
+﻿# CreateWeiBoCookie
+微博模拟登录获取cookies
